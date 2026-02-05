@@ -1,59 +1,56 @@
-<div align="center">
+<h1>Hi There, I'm Aimane Charafi 
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+</h1>
 
-  <h1>Aimane Charafi</h1>
-  <h3>Front-End Web Developer · React.js</h3>
-
-  <img 
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW8zdGd6OWJ4MTRwZzdvZHZyZHFqdXR6bWRrMmM2dDlpZWl5M3Z3NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif"
-    alt="Web Developer"
-    width="420"
-  />
-
-</div>
+I'm a **Front-End Web Developer (React.js)** with a solid foundation in **web development and computer networks**.  
+I enjoy building modern, responsive, and user-friendly interfaces using current front-end technologies.  
+I'm continuously learning and open to collaborate on interesting web projects.
 
 ---
 
-## About Me
+## Skill Set :muscle:
 
-Front-End Web Developer specialized in **React.js**, focused on building clean, responsive, and user-friendly web interfaces.  
-I have a solid foundation in **modern web technologies** and **computer networks**, with a strong interest in continuous learning and professional growth.
+Here are the main technologies I work with:
 
----
+### Programming Languages
 
-## Technologies & Tools
+<img title="HTML5" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"/> |
+<img title="CSS3" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"/> |
+<img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"/> |
+<img title="TypeScript" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"/>
 
-### Front-End
-- HTML5, CSS3  
-- JavaScript (ES6+), TypeScript  
-- React.js  
-- Tailwind CSS, Bootstrap  
+### Libraries & Frameworks
+
+<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"/> |
+<img title="Tailwind CSS" alt="Tailwind" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png"/> |
+<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png"/>
 
 ### Tools & Environment
-- Git & GitHub  
-- Visual Studio Code  
-- Linux  
 
-### Networking Fundamentals
-- TCP/IP  
-- DNS, DHCP  
-- Basic firewall concepts  
+<img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"/> |
+<img title="GitHub" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"/> |
+<img title="VS Code" alt="VS Code" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png"/> |
+<img title="Linux" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"/>
 
----
+### Networking Basics
 
-## GitHub Stats
-
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=acharafi&show_icons=true&theme=default" 
-  alt="GitHub Stats"
-/>
+<img title="TCP/IP" alt="TCP/IP" width="40px" src="https://img.icons8.com/color/48/network.png"/> |
+<img title="DNS" alt="DNS" width="40px" src="https://img.icons8.com/color/48/domain.png"/> |
+<img title="DHCP" alt="DHCP" width="40px" src="https://img.icons8.com/color/48/server.png"/>
 
 ---
 
-## Contact
+## GitHub Stats :bar_chart:
 
-- GitHub: https://github.com/acharafi  
-- LinkedIn: https://www.linkedin.com/in/aimane-charafi-b952aa226  
+<img src="https://github-readme-stats.vercel.app/api?username=acharafi&show_icons=true&theme=radical&include_all_commits=true"/>
 
 ---
 
-*Open to collaboration, internships, and junior front-end opportunities.*
+## Let's Connect :handshake:
+
+<a href="https://github.com/acharafi">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="40">
+</a>
+<a href="https://www.linkedin.com/in/aimane-charafi-b952aa226">
+  <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40">
+</a>
