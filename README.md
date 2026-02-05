@@ -38,12 +38,6 @@ I’m passionate about continuous learning and open to collaborating on web deve
 
 ---
 
-## GitHub Stats :bar_chart:
-
-<img src="https://github-readme-stats.vercel.app/api?username=acharafi&show_icons=true&theme=radical&include_all_commits=true"/>
-
----
-
 ## Let's Connect :handshake:
 
 <a href="https://github.com/acharafi">
