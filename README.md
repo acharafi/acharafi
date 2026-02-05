@@ -1,61 +1,59 @@
-<h2 align="left">
-  <br>
-  Hi there, I'm <strong>Aimane Charafi</strong>
-  <br><br>
-  Front-End Web Developer (React.js)
-  <br><br>
+<div align="center">
+
+  <h1>Aimane Charafi</h1>
+  <h3>Front-End Web Developer · React.js</h3>
+
   <img 
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-    alt="Developer working" 
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW8zdGd6OWJ4MTRwZzdvZHZyZHFqdXR6bWRrMmM2dDlpZWl5M3Z3NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif"
+    alt="Web Developer"
     width="420"
-  >
-</h2>
+  />
+
+</div>
 
 ---
 
-<h2 align="left">🛠 Technologies & Tools</h2>
+## About Me
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-</p>
+Front-End Web Developer specialized in **React.js**, focused on building clean, responsive, and user-friendly web interfaces.  
+I have a solid foundation in **modern web technologies** and **computer networks**, with a strong interest in continuous learning and professional growth.
 
 ---
 
-<h2 align="left">👨‍💻 About Me</h2>
+## Technologies & Tools
 
-<ul>
-  <li>Front-End Developer specialized in <strong>React.js</strong></li>
-  <li>Strong foundation in modern web development and responsive design</li>
-  <li>Background in <strong>computer networks</strong> (TCP/IP, DNS, DHCP)</li>
-  <li>Comfortable with Git-based workflows and collaborative environments</li>
-  <li>Continuously learning and improving through practical projects</li>
-</ul>
+### Front-End
+- HTML5, CSS3  
+- JavaScript (ES6+), TypeScript  
+- React.js  
+- Tailwind CSS, Bootstrap  
+
+### Tools & Environment
+- Git & GitHub  
+- Visual Studio Code  
+- Linux  
+
+### Networking Fundamentals
+- TCP/IP  
+- DNS, DHCP  
+- Basic firewall concepts  
 
 ---
 
-<h2 align="left">📊 GitHub Stats</h2>
+## GitHub Stats
 
 <img 
   src="https://github-readme-stats.vercel.app/api?username=acharafi&show_icons=true&theme=default" 
-  alt="GitHub stats"
+  alt="GitHub Stats"
 />
 
 ---
 
-<h2 align="left">🤝 Let's Connect</h2>
+## Contact
 
-<a href="https://github.com/acharafi">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40">
-</a>
-<a href="https://www.linkedin.com/in/aimane-charafi-b952aa226">
-  <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40">
-</a>
+- GitHub: https://github.com/acharafi  
+- LinkedIn: https://www.linkedin.com/in/aimane-charafi-b952aa226  
+
+---
+
+*Open to collaboration, internships, and junior front-end opportunities.*
