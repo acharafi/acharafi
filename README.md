@@ -16,14 +16,12 @@ I’m passionate about continuous learning and open to collaborating on web deve
 <img title="CSS3" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"/> |
 <img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"/> |
 <img title="TypeScript" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"/>
-|--|--|--|--|
 
 ### Libraries & Frameworks
 
 <img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"/> |
 <img title="Tailwind CSS" alt="Tailwind" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png"/> |
 <img title="Bootstrap" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png"/>
-|--|--|--|
 
 ### Tools & Environment
 
@@ -31,14 +29,12 @@ I’m passionate about continuous learning and open to collaborating on web deve
 <img title="GitHub" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"/> |
 <img title="VS Code" alt="VS Code" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png"/> |
 <img title="Linux" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"/>
-|--|--|--|--|
 
 ### Networking Fundamentals
 
 <img title="TCP/IP" alt="TCP/IP" width="40px" src="https://img.icons8.com/color/48/network.png"/> |
 <img title="DNS" alt="DNS" width="40px" src="https://img.icons8.com/color/48/domain.png"/> |
 <img title="DHCP" alt="DHCP" width="40px" src="https://img.icons8.com/color/48/server.png"/>
-|--|--|--|
 
 ---
 
